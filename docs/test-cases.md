@@ -1,5 +1,6 @@
 # 10 Test Cases
 1.Verify that standard_user can log in successfully with valid credentials.
+
 2.Verify that locked_out_user cannot log in and sees an appropriate error message.
 3.Verify that problem_user can log in but product page displays correctly (or known UI issues are visible).
 4.Verify that user can add a single product to the cart from the inventory page.
