@@ -25,10 +25,10 @@
 
 ## TCMS Test Case (Example)
 
-### Test Case ID: TC_SAUCE_001
+### Test Case ID: TC_SAUCE_001  
+### Title: Verify that standard_user can log in successfully with valid credentials  
 
 ---
-**Title**: Verify that standard_user can log in successfully with valid credentials
 
 ### Preconditions
 - User has access to https://www.saucedemo.com/  
