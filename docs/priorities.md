@@ -2,7 +2,7 @@
 
 ---
 
-##  Priority 1 (Critical – P0: Core business flow must work)
+##  Priority 1 (Critical: Core business flow must work)
 
 ### 1. Login with standard_user (valid credentials)
 - This is the entry point of the entire application  
@@ -13,7 +13,7 @@
 
 ### 2. Complete checkout with valid information successfully
 - This is the main business goal (purchase flow)  
-- Validates end-to-end workflow: cart → checkout → order completion  
+- Validates end-to-end workflow: cart -> checkout -> order completion  
 - Any failure here = broken revenue flow  
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-##  Priority 2 (High – P1: Important functionality, affects usability)
+##  Priority 2 (High: Important functionality, affects usability)
 
 ### 5. Remove items from cart
 - Users frequently modify cart before purchase  
@@ -50,7 +50,7 @@
 
 ---
 
-##  Priority 3 (Medium – P2: Functional but not business-critical)
+##  Priority 3 (Medium: Functional but not business-critical)
 
 ### 8. Sort products (low → high, high → low)
 - Improves user experience  
@@ -64,7 +64,7 @@
 
 ---
 
-##  Priority 4 (Low – P3: Edge case / UI behavior validation)
+##  Priority 4 (Low: Edge case / UI behavior validation)
 
 ### 10. problem_user login and UI behavior check
 - Used mainly for known defect simulation / demo purposes  

@@ -2,19 +2,19 @@
 
 1. Verify that standard_user can log in successfully with valid credentials.  
 
-2. Verify that locked_out_user cannot log in and sees an appropriate error message.  
+2. Verify that user can complete checkout with valid information successfully. 
 
-3. Verify that problem_user can log in but product page displays correctly (or known UI issues are visible).  
+3. Verify that user can add a single product to the cart from the inventory page.  
 
-4. Verify that user can add a single product to the cart from the inventory page.  
+4. Verify that user can add multiple products to the cart and cart count updates correctly.
 
-5. Verify that user can add multiple products to the cart and cart count updates correctly.  
+5. Verify that problem_user can log in but product page displays correctly (or known UI issues are visible).  
 
 6. Verify that user can remove items from the cart successfully.  
 
 7. Verify that user can sort products by price (low to high and high to low).  
 
-8. Verify that user can complete checkout with valid information successfully.  
+8. Verify that locked_out_user cannot log in and sees an appropriate error message. 
 
 9. Verify that user sees an error when attempting checkout with missing required fields.  
 
@@ -23,7 +23,7 @@
 
 ---
 
-## TCMS Test Case (Example)
+## TCMS Test Case
 
 ### Test Case ID: TC_SAUCE_001  
 ### Title: Verify that standard_user can log in successfully with valid credentials  
